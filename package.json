@@ -1,0 +1,17 @@
+{
+  "name": "FORCADEITOR",
+  "version": "1.0.0",
+  "description": "FORCADEITOR bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.1.1",
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "pretty-ms": "^7.0.1"
+  }
+}
